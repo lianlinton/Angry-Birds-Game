@@ -1,2 +1,2 @@
-# Angry-Birds-Game
-Angry Birds Stage 2 Student Activity: loadImage and Inheritance
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
